@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/hariprasathb27/leetcode-solutions/tree/master/0007-reverse-integer) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/hariprasathb27/leetcode-solutions/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
