@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/hariprasathb27/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/hariprasathb27/leetcode-solutions/tree/master/0066-plus-one) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/hariprasathb27/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/hariprasathb27/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/hariprasathb27/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
